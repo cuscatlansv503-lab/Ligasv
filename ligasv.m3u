@@ -1,13 +1,7 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="Solo Eventos" tvg-logo="" group-title="Eventos",Solo Eventos
-#EXTGRP:Eventos
+#EXTINF:-1 group-title="-",1 - solo eventos
 https://stream.mux.com/ewIOcgSHMWRm8sV1QQmFZGUkEgd41kjDl02XhILMSPS00.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Canal 4" tvg-logo="" group-title="General",Canal 4
-#EXTGRP:General
+#EXTINF:-1 group-title="-",2-canal 4
 http://186.33.61.182:8000/play/a06e/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Fox SV" tvg-logo="" group-title="Entretenimiento",Fox SV
-#EXTGRP:Entretenimiento
+#EXTINF:-1 group-title="-",3 - Fox sv
 http://38.52.208.106:8000/play/a06u/index.m3u8
