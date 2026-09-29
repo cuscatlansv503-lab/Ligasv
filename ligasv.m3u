@@ -5,3 +5,5 @@ https://stream.mux.com/ewIOcgSHMWRm8sV1QQmFZGUkEgd41kjDl02XhILMSPS00.m3u8
 http://186.33.61.182:8000/play/a06e/index.m3u8
 #EXTINF:-1 group-title="-",3 - Fox sv
 http://38.52.208.106:8000/play/a06u/index.m3u8
+#EXTINF:-1 group-title="-",4 - Fox sv op2
+http://200.57.28.141:8540/play/a0k6
