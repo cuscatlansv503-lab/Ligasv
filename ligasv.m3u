@@ -7,3 +7,7 @@ http://186.33.61.182:8000/play/a06e/index.m3u8
 http://38.52.208.106:8000/play/a06u/index.m3u8
 #EXTINF:-1 group-title="-",4 - Fox sv op2
 http://200.57.28.141:8540/play/a0k6
+#EXTINF:-1 group-title="-",5 - Espndeportes
+https://player.42web.io/live3/espndeportes.m3u8
+#EXTINF:-1 group-title="-",6 - Telemundo
+http://195.178.110.110/telemundo/index.m3u8
