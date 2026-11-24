@@ -1,13 +1,55 @@
 #EXTM3U
-#EXTINF:-1 group-title="-",1 - solo eventos
+#EXTINF:-1 tvg-id="23372" tvg-name="Tv Usulutan" tvg-logo="https://files.catbox.moe/n43q62.jpg",Tv Usulutan
+https://rtmp.info/tvusuluteca/envivo/playlist.m3u8
+#EXTINF:-1 tvg-id="23373" tvg-name="Mizpa tv" tvg-logo="https://files.catbox.moe/6s608n.png",Mizpa tv
+https://mizpatv.sitiosweb7.live/live/0n4M663tIrZHgCWV7xoJPyL8ig13/index.m3u8
+#EXTINF:-1 tvg-id="23374" tvg-name="canal 10" tvg-logo="https://files.catbox.moe/6s608n.png",canal 10
+https://5ca3e84a76d30.streamlock.net:443/tves/videotves/playlist.m3u8
+#EXTINF:-1 tvg-id="23375" tvg-name="Tribu de juda" tvg-logo="https://files.catbox.moe/6s608n.png",Tribu de juda
+https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
+#EXTINF:-1 tvg-id="23376" tvg-name="Getsemani" tvg-logo="https://files.catbox.moe/6s608n.png",Getsemani
+https://serversv.com:8080/hls/tvgetsemani.m3u8
+#EXTINF:-1 tvg-id="23377" tvg-name="Tv cree" tvg-logo="https://files.catbox.moe/sxhj5q.png",Tv cree
+https://radiocret.net:8082/hls/tvcret.m3u8
+#EXTINF:-1 tvg-id="23378" tvg-name="josue tv" tvg-logo="https://files.catbox.moe/6yu592.jpg",josue tv
+https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
+#EXTINF:-1 tvg-id="23379" tvg-name="El camino tv" tvg-logo="https://files.catbox.moe/bgd01j.jpg",El camino tv
+https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
+#EXTINF:-1 tvg-id="23380" tvg-name="canal 19" tvg-logo="https://files.catbox.moe/gg0jjf.jpg",canal 19
+https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="23381" tvg-name="canal 21" tvg-logo="https://files.catbox.moe/kety5k.png",canal 21
+https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="23382" tvg-name="canal 4" tvg-logo="https://files.catbox.moe/sdegbw.png",canal 4
+http://190.61.101.11:7050/play/a06y/index.m3u8
+#EXTINF:-1 tvg-id="23383" tvg-name="canal 2" tvg-logo="https://files.catbox.moe/0icor5.png",canal 2
+http://190.61.101.11:7050/play/a06z/index.m3u8
+#EXTINF:-1 tvg-id="23384" tvg-name="Tcs sv+" tvg-logo="https://files.catbox.moe/2xn995.jpg",Tcs sv+
+http://190.61.101.11:7050/play/a07o/index.m3u8
+#EXTINF:-1 tvg-id="23385" tvg-name="FOX-EX TIGO" tvg-logo="https://files.catbox.moe/mz2t6w.jpeg",FOX-EX TIGO
+http://186.33.0.57:8000/play/a069/index.m3u8
+#EXTINF:-1 tvg-id="23386" tvg-name="canal 6" tvg-logo="https://files.catbox.moe/a6hyem.png",canal 6
+http://186.33.0.57:8000/play/a02c/index.m3u8
+#EXTINF:-1 tvg-id="23387" tvg-name="canal 12" tvg-logo="https://files.catbox.moe/nqtmin.png",canal 12
+http://186.33.0.57:8000/play/a02d/index.m3u8
+#EXTINF:-1 tvg-id="23388" tvg-name="canal Tvm" tvg-logo="https://files.catbox.moe/6s608n.png",canal Tvm
+http://ispmanager.flynetwifi.com:1935/tvm/tvm.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="23389" tvg-name="tvo" tvg-logo="https://files.catbox.moe/6s608n.png",tvo
+http://186.33.0.57:8000/play/a04o/index.m3u8
+#EXTINF:-1 tvg-id="23390" tvg-name="tutv" tvg-logo="https://files.catbox.moe/6s608n.png",tutv
+https://stream.giostreaming.app/canal11/canal11.m3u8
+#EXTINF:-1 tvg-id="23391" tvg-name="sol tv" tvg-logo="https://i.imgur.com/jaBxxpt.png",sol tv
+https://videostream.shockmedia.com.ar/hls/canalsoltv/canalsoltv.m3u8
+#EXTINF:-1 tvg-id="23392" tvg-name="canal 57" tvg-logo="https://i.ibb.co/prNNXx7q/rtv-canal-57-sv.png",canal 57
+https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
+#EXTINF:-1 tvg-id="23393" tvg-name="Canal 58" tvg-logo="https://files.catbox.moe/6s608n.png",Canal 58
+https://183.bozztv.com/giatv/giatv-canal58elsalvador/canal58elsalvador/playlist.m3u8
+#EXTINF:-1 tvg-id="23394" tvg-name="TL+ santa ana" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOhkQ31fCGQsK2s6X4OvOY44dcMF_wiuKRK-OxLuLxZED_3QoVhXN1mzc&s=10",TL+ santa ana
+https://cdn.global.elektamedia.com/live/c7eds/TLMasSV_SantaAna/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-id="23395" tvg-name="canal 4 op2" tvg-logo="https://files.catbox.moe/sdegbw.png",canal 4 op2
+http://186.33.0.57:8000/play/a03h/index.m3u8
+#EXTINF:-1 tvg-id="23396" tvg-name="canal 4 op3" tvg-logo="https://files.catbox.moe/sdegbw.png",canal 4 op3
+http://148.227.219.186:3000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-id="23397" tvg-name="Wowtv" tvg-logo="",Wowtv
+https://cdn1.cef-technology.com/wow/wow_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="23398" tvg-name="Solo eventos no 24/7" tvg-logo="https://files.catbox.moe/ilxsdb.png",Solo eventos no 24/7
 https://stream.mux.com/ewIOcgSHMWRm8sV1QQmFZGUkEgd41kjDl02XhILMSPS00.m3u8
-#EXTINF:-1 group-title="-",2-canal 4
-http://190.61.114.186:8000/play/a03o/index.m3u8
-#EXTINF:-1 group-title="-",3 - Fox sv
-http://38.52.208.106:8000/play/a06u/index.m3u8
-#EXTINF:-1 group-title="-",4 - Fox sv op2
-http://200.57.28.141:8540/play/a0k6
-#EXTINF:-1 group-title="-",5 - canal 4op2
-http://186.33.25.234:8125/play/a03w/index.m3u8
-#EXTINF:-1 group-title="-",6 - Telemundo
-http://195.178.110.110/telemundo/index.m3u8
